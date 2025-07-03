@@ -1,0 +1,18 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore backup files
+*.bak
+*.tmp
+*~
+
+# Optional: Ignore VS Code settings (if you don't want to share them)
+.vscode/
+
+# Optional: Ignore compiled assets (if you use any tools later)
+dist/
+build/
